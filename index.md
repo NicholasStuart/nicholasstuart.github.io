@@ -1,6 +1,6 @@
 ## Hello, I'm Nick Stuart
 
-Follow Me
+Follow Me<B>
 <ul>
 <li>Linkedin</li>
 <li>Twitter</li>
