@@ -1,4 +1,7 @@
 ## Hello, I'm Nick Stuart
+<b>About</b>
+I was born and raised in New Hampshire and I'm currently living on the Seacoast where I study Finance at the UNH Peter T. Paul College of Business and Economics. My passion lies in all things ideas and innovation. I love solving problems and growing raw ideas to their greatest potential. My areas of interest include financial operations, venture capital, early-stage startups, and financial technologies. Some of my specialties include investment due diligence, investor relations, market research, and financial analysis. Where I lack in knowledge or skill, I always try to make up for in creativity and effort. Drop me a line if you'd like to chat!
+
 
 <b>Follow Me</b>
 <ul>
