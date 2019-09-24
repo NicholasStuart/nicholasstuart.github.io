@@ -8,16 +8,16 @@
 
 <b>Professional Experience</b>
 <ul>
-<li>Silicon Valley Bank</li>
-<li>UNH Foundation ESG Team</li>
-<li>10x Venture Partners</li>
-<li>The Millworks Fund</li>
-<li>Minim</li>
+<li><a href="https://www.svb.com/">Silicon Valley Bank</a></li>
+<li><a href="https://www.unh.edu/unhtoday/2017/07/committee-investor-responsibility-established">UNH Foundation ESG Investment Team</a></li>
+<li><a href="https://www.10xvp.com/">10x Venture Partners</a></li>
+<li><a href="https://millworksfund.com/">The Millworks Fund</a></li>
+<li><a href="www.minim.co">Minim</a></li>
 </ul>
 
 <b>Education</b>
 <ul>
-<li>University of New Hampshire (Durham)</li>
+<li><a href="www.unh.edu">University of New Hampshire (Durham)</a></li>
 </ul>
 
 <b>University Involvement</b>
