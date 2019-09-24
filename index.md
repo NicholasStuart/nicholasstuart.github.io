@@ -15,7 +15,12 @@ Experience (Reverse Chronological)
 <li>Minim</li>
 </ul>
 
-Education & University Involvement
+Education
+<ul>
+<li>University of New Hampshire (Durham)</li>
+</ul>
+
+University Involvement
 <ul>
 <li>The Rines Angel Fund</li>
 <li>Alpha Kappa Psi</li>
