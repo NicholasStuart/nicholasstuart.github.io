@@ -22,7 +22,7 @@
 
 <b>University Involvement</b>
 <ul>
-<li>The Rines Angel Fund</li>
-<li>Alpha Kappa Psi</li>
-<li>University Innovation Fellows</li>
+<li><a href="www.rinesfund.com">Rines Angel Fund</a></li>
+<li><a href="https://akpsi.org/">Alpha Kappa Psi</a></li>
+<li><a href="https://universityinnovationfellows.org/">University Innovation Fellows</a></li>
 </ul>
