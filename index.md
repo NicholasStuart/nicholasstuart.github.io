@@ -5,6 +5,16 @@
 <li>Twitter</li>
 </ul>
 
+Experience (Reverse Chronological)
+<ul>
+<li>Silicon Valley Bank</li>
+<li>UNH Foundation ESG Team</li>
+<li>10x Venture Partners</li>
+<li>The Millworks Fund</li>
+<li>Minim</li>
+</ul>
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
