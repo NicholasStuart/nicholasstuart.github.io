@@ -6,7 +6,7 @@
 <li>Twitter</li>
 </ul>
 
-Experience (Reverse Chronological)
+<b>Professional Experience</b>
 <ul>
 <li>Silicon Valley Bank</li>
 <li>UNH Foundation ESG Team</li>
@@ -15,14 +15,14 @@ Experience (Reverse Chronological)
 <li>Minim</li>
 </ul>
 
-Education
+<b>Education</b>
 <ul>
 <li>University of New Hampshire (Durham)</li>
 </ul>
 
-University Involvement
+<b>University Involvement</b>
 <ul>
 <li>The Rines Angel Fund</li>
 <li>Alpha Kappa Psi</li>
-  <li>University Innovation Fellows</li>
+<li>University Innovation Fellows</li>
 </ul>
