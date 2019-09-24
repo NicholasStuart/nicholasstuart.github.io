@@ -15,6 +15,13 @@ Experience (Reverse Chronological)
 <li>Minim</li>
 </ul>
 
+Education & University Involvement
+<ul>
+<li>The Rines Angel Fund</li>
+<li>Alpha Kappa Psi</li>
+  <li>University Innovation Fellows</li>
+</ul>
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
