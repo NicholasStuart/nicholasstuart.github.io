@@ -2,8 +2,8 @@
 
 <b>Follow Me</b>
 <ul>
-<li>Linkedin</li>
-<li>Twitter</li>
+<li><a href="https://www.linkedin.com/in/nicholasstuart/">Linkedin</a></li>
+<li><a href="https://twitter.com/_NickStuart_">Twitter</a></li>
 </ul>
 
 <b>Professional Experience</b>
